@@ -1,6 +1,8 @@
 # 💧 Liquidity Position + Farm Reward Tracker Bot (Solana)
 
 A backend + bot tool that tracks a user's **single-sided liquidity pool positions** and corresponding **farm rewards** on Solana.
+![image](https://github.com/user-attachments/assets/732a8acd-aab9-4951-9698-ed00eac7e5c8)
+
 
 ## 🧠 Use Case
 
