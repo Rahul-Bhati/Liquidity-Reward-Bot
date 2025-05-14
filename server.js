@@ -6,11 +6,12 @@ import User from './models/User.js';
 import axios from 'axios';
 import checkPriceAlerts from './utils/priceAlerts.js';
 import WebSocket from 'ws';
+import getFarmsFromPool from './utils/getFarmsFromPool.js';
+import trackFarms from './utils/trackFarmsReward.js';
 
 dotenv.config();
 const app = express();
 app.use(express.json());
-
 
 // Connect to MongoDB
 mongoose.connect(process.env.MONGODB_URI)
@@ -203,8 +204,6 @@ bot.onText(/\/menu/, async (msg) => {
     }
 });
 
-
-
 // Save user wallet address
 bot.onText(/\/setwallet (.+)/, async (msg, match) => {
     const chatId = msg.chat.id;
@@ -362,6 +361,37 @@ Would you like to enable alerts for this position?
         console.error("Error adding position:", error);
         bot.sendMessage(chatId, "❌ *Failed to add position!*\nSomething went wrong. Please try again later.", { parse_mode: "Markdown" });
     }
+});
+
+bot.onText(/\/getFarmsFromPoolId (.+)/, async (msg, match) => {
+    const chatId = msg.chat.id;
+    const poolId = match?.[1]?.trim();
+
+    if (!poolId) {
+        return bot.sendMessage(chatId, '❌ Please provide a valid pool ID.');
+    }
+
+    try {
+        const farms = await getFarmsFromPool(poolId);
+
+        if (!farms || farms.length === 0) {
+            return bot.sendMessage(chatId, `⚠️ No farms found for Pool ID: \`${poolId}\``, { parse_mode: 'Markdown' });
+        }
+
+        // const response = farms.map((farm, idx) => `*Farm ${idx + 1}*\n\`${JSON.stringify(farm, null, 2)}\``).join('\n\n');
+        await bot.sendMessage(chatId, farms, { parse_mode: 'Markdown' });
+
+    } catch (err) {
+        console.error(`Error fetching farms for Pool ID ${poolId}:`, err);
+        await bot.sendMessage(chatId, `❌ Error fetching farms: \`${err.message || err}\``, { parse_mode: 'Markdown' });
+    }
+});
+
+bot.onText(/\/trackReward (.+)/, async (msg, match) => {
+    const chatId = msg.chat.id;
+    const address = match?.[1]?.trim();
+    const result = await trackFarms(address);
+    bot.sendMessage(chatId, result);
 });
 
 bot.on("callback_query", async (callbackQuery) => {
