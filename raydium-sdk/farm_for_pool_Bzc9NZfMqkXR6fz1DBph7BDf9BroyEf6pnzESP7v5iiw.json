@@ -1,0 +1,235 @@
+{
+    "id": "e4d257cd-05a5-47c8-8f37-be9d083e103a",
+    "success": true,
+    "data": {
+        "count": 5,
+        "data": [
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "8vtGvvCAE2fYvMP9B3SauzLn8PHvkgQB3obbNTtpwSaD",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump.png",
+                        "symbol": "Fartcoin ",
+                        "name": "Fartcoin ",
+                        "decimals": 6,
+                        "tags": [],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "6JDPHdZEgQ5YtercMxNiSvVtVTkvWADvxA2x6xR3XHC8",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "",
+                    "name": "",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 1456.07353141749,
+                "lpPrice": 4878.878676582163,
+                "apr": 0.0521,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "6GcBLLb9AmcdMzNebqgccCuHQi9yPLcWUatUpSkC86n4",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/6GcBLLb9AmcdMzNebqgccCuHQi9yPLcWUatUpSkC86n4.png",
+                            "symbol": "Fartcoin ",
+                            "name": "Fartcoinㅤ",
+                            "decimals": 6,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "2",
+                        "openTime": "1744377847",
+                        "endTime": "1744982647"
+                    },
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "So11111111111111111111111111111111111111112",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                            "symbol": "WSOL",
+                            "name": "Wrapped SOL",
+                            "decimals": 9,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0.0521,
+                        "perSecond": "16",
+                        "openTime": "1746503445",
+                        "endTime": "1747108245"
+                    },
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "6NBCZDPyWdgknKa433vg9nt5NmLUs85eEVaM3i5AWMV",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/6NBCZDPyWdgknKa433vg9nt5NmLUs85eEVaM3i5AWMV.png",
+                            "symbol": "solana ton",
+                            "name": "TONSOL",
+                            "decimals": 6,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "1653439",
+                        "openTime": "1746547671",
+                        "endTime": "1747152471"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "CwjpqZN2F7SPDN29egMh41JkjMKGpiTEAkRsywRVjeQJ",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump.png",
+                        "symbol": "Fartcoin ",
+                        "name": "Fartcoin ",
+                        "decimals": 6,
+                        "tags": [],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "6JDPHdZEgQ5YtercMxNiSvVtVTkvWADvxA2x6xR3XHC8",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "",
+                    "name": "",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 749.8456217313945,
+                "lpPrice": 4878.878676582163,
+                "apr": 0,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "C9QDSHMNpGanMXms9e1LYfUQTsqeN2Po8799cNXNUray",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/C9QDSHMNpGanMXms9e1LYfUQTsqeN2Po8799cNXNUray.png",
+                            "symbol": "TROLL",
+                            "name": "TROLL",
+                            "decimals": 6,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "835053",
+                        "openTime": "1746050400",
+                        "endTime": "1753826400"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "ju7HDSUvpp5a2d7ZgbuPTBdsXGrjsjvJ1ibFfWftT3B",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump.png",
+                        "symbol": "Fartcoin ",
+                        "name": "Fartcoin ",
+                        "decimals": 6,
+                        "tags": [],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "6JDPHdZEgQ5YtercMxNiSvVtVTkvWADvxA2x6xR3XHC8",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "",
+                    "name": "",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 5599.338485159632,
+                "lpPrice": 4878.878676582163,
+                "apr": 0.03,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "3DyT1fDosT42GT7srFmv5m2VuzU9AB68QknwWY6Kpump",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/3DyT1fDosT42GT7srFmv5m2VuzU9AB68QknwWY6Kpump.png",
+                            "symbol": "unl",
+                            "name": "unleverage",
+                            "decimals": 6,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0.03,
+                        "perSecond": "128660",
+                        "openTime": "1743212001",
+                        "endTime": "1750984401"
+                    }
+                ]
+            }
+        ],
+        "hasNextPage": false
+    }
+}

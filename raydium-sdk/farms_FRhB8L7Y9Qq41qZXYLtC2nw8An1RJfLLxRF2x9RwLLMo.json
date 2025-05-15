@@ -1,0 +1,1586 @@
+{
+    "id": "57285ba1-d6e5-4157-ae6c-1f34871a61f1",
+    "success": true,
+    "data": {
+        "count": 22,
+        "data": [
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "2SZdhoL9ofzQhR9bDNutzHMwiWGWFrWHxFec5dK5P9ZH",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 36053.15603649647,
+                "lpPrice": 187.792946301066,
+                "apr": 0,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "12MFXb5CGJ65S3mP3s4eMLaosGp6xGnQe3PxQD38nfJp",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "",
+                            "symbol": "Skibidi",
+                            "name": "Skibidi Dop Dop",
+                            "decimals": 6,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "643004",
+                        "openTime": "1733180448",
+                        "endTime": "1740956448"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "32A8MPj3E87wJYAxdJYPASNXnRThCU72jiENQ4RTZ4Yp",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 9483.168619023778,
+                "lpPrice": 187.792946301066,
+                "apr": 0,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "HUdqc5MR5h3FssESabPnQ1GTgTcPvnNudAuLj5J6a9sU",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/HUdqc5MR5h3FssESabPnQ1GTgTcPvnNudAuLj5J6a9sU.png",
+                            "symbol": "BONGO",
+                            "name": "Bongo Cat",
+                            "decimals": 9,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "587",
+                        "openTime": "1740680186",
+                        "endTime": "1741284986"
+                    },
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv.png",
+                            "symbol": "PENGU",
+                            "name": "Pudgy Penguins",
+                            "decimals": 6,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "16",
+                        "openTime": "1740785100",
+                        "endTime": "1741389900"
+                    },
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263.png",
+                            "symbol": "Bonk",
+                            "name": "Bonk",
+                            "decimals": 5,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "1",
+                        "openTime": "1740785220",
+                        "endTime": "1741390020"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "3TJifVhbEMTttr3dbfuJrXSLVuzUkN4bddyWfhihG1GJ",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 11307.112598880292,
+                "lpPrice": 187.792946301066,
+                "apr": 0.0147,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "3DyT1fDosT42GT7srFmv5m2VuzU9AB68QknwWY6Kpump",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/3DyT1fDosT42GT7srFmv5m2VuzU9AB68QknwWY6Kpump.png",
+                            "symbol": "unl",
+                            "name": "unleverage",
+                            "decimals": 6,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0.0147,
+                        "perSecond": "128660",
+                        "openTime": "1743202500",
+                        "endTime": "1750974900"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "3iwm69RRf6vnVxdexunS7L9NKobXw8WyoP6B1sA9dpJp",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 1945.252371351004,
+                "lpPrice": 187.792946301066,
+                "apr": 0,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "So11111111111111111111111111111111111111112",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                            "symbol": "WSOL",
+                            "name": "Wrapped SOL",
+                            "decimals": 9,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "1653",
+                        "openTime": "1722491700",
+                        "endTime": "1723096500"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "3wTKhoczGasafzM9yMLGXfLpPtKpJDn9cERRf1jmJtqF",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 3329.5908084722187,
+                "lpPrice": 187.792946301066,
+                "apr": 0,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "9C5cSx42cTet4WsEX1TRBUxbVLWuMq1By16AstUQDJkj",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/9C5cSx42cTet4WsEX1TRBUxbVLWuMq1By16AstUQDJkj.png",
+                            "symbol": "$WEEWEE",
+                            "name": "$WEEWEE",
+                            "decimals": 6,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "759688341",
+                        "openTime": "1728958980",
+                        "endTime": "1729563780"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "5dEF4pLSML8veeUkUGL9pzWEaCQntBnxQfdwZEwYoKiG",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 0.0004550223088874828,
+                "lpPrice": 187.792946301066,
+                "apr": 0,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "Ei3M5wXqr6hsGqmtjWea3MRjz9ap9hKj1LjeczBjbCF6",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "",
+                            "symbol": "TAIBOT",
+                            "name": "Telegram AI Bot",
+                            "decimals": 9,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "4960317460",
+                        "openTime": "1738416206",
+                        "endTime": "1739021006"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "5ndexC4SvPy8Kc1Tswszi4N5NMwXBoVxTL1wcp7sBwof",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 2.09099370609546,
+                "lpPrice": 187.792946301066,
+                "apr": 0,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "69kdRLyP5DTRkpHraaSZAQbWmAwzF9guKjZfzMXzcbAs",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/69kdRLyP5DTRkpHraaSZAQbWmAwzF9guKjZfzMXzcbAs.png",
+                            "symbol": "USA",
+                            "name": "American Coin",
+                            "decimals": 6,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "1653",
+                        "openTime": "1737491275",
+                        "endTime": "1738096075"
+                    },
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                            "symbol": "USDC",
+                            "name": "USD Coin",
+                            "decimals": 6,
+                            "tags": [
+                                "hasFreeze"
+                            ],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "3",
+                        "openTime": "1737491287",
+                        "endTime": "1738096087"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "5qMh87iavzAMAGFEkw7D8ExCCh8tPymypHZLw3no7yot",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 97082.70360914907,
+                "lpPrice": 187.792946301066,
+                "apr": 0,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE.png",
+                            "symbol": "ORCA",
+                            "name": "Orca",
+                            "decimals": 6,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "17",
+                        "openTime": "1740664800",
+                        "endTime": "1743256800"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "8tTkuZdLeugukZAX6kaFuJfE5XX9EfvpcmADGDSv5kBF",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 498.0244404511694,
+                "lpPrice": 187.792946301066,
+                "apr": 0,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "So11111111111111111111111111111111111111112",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                            "symbol": "WSOL",
+                            "name": "Wrapped SOL",
+                            "decimals": 9,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "1653",
+                        "openTime": "1722499079",
+                        "endTime": "1723103879"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "9bBqPPmGzXKSSsky2T6RQJ8axhR9Xnpx7RdY2WShgEAE",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 15.252121503408132,
+                "lpPrice": 187.792946301066,
+                "apr": 0,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "So11111111111111111111111111111111111111112",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                            "symbol": "WSOL",
+                            "name": "Wrapped SOL",
+                            "decimals": 9,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "66",
+                        "openTime": "1737628320",
+                        "endTime": "1738233120"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "9bs8cLua5HghK3NmBHSPrzk5hb6ikNs164d1Ap22d7rn",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 0,
+                "lpPrice": 187.792946301066,
+                "apr": 0,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "So11111111111111111111111111111111111111112",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                            "symbol": "WSOL",
+                            "name": "Wrapped SOL",
+                            "decimals": 9,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "181",
+                        "openTime": "1722450960",
+                        "endTime": "1723055760"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "9obzrr1cBAAUyiH2K3wTk5d3sNtLuL7LX6i88VazDMnD",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 794.1706594992969,
+                "lpPrice": 187.792946301066,
+                "apr": 0,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R.png",
+                            "symbol": "RAY",
+                            "name": "Raydium",
+                            "decimals": 6,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "430",
+                        "openTime": "1721771400",
+                        "endTime": "1722376200"
+                    },
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "So11111111111111111111111111111111111111112",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                            "symbol": "WSOL",
+                            "name": "Wrapped SOL",
+                            "decimals": 9,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "16534",
+                        "openTime": "1719352240",
+                        "endTime": "1719957040"
+                    },
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                            "symbol": "USDC",
+                            "name": "USD Coin",
+                            "decimals": 6,
+                            "tags": [
+                                "hasFreeze"
+                            ],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "496",
+                        "openTime": "1719352243",
+                        "endTime": "1719957043"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "Bq6MSCkzNV6DT952swdzHGtFAqWxL62u7UbCZfWfqzuS",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 0,
+                "lpPrice": 187.792946301066,
+                "apr": 0,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "69kdRLyP5DTRkpHraaSZAQbWmAwzF9guKjZfzMXzcbAs",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/69kdRLyP5DTRkpHraaSZAQbWmAwzF9guKjZfzMXzcbAs.png",
+                            "symbol": "USA",
+                            "name": "American Coin",
+                            "decimals": 6,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "16",
+                        "openTime": "1737565917",
+                        "endTime": "1738170717"
+                    },
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm.png",
+                            "symbol": "$WIF",
+                            "name": "dogwifhat",
+                            "decimals": 6,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "3",
+                        "openTime": "1737565917",
+                        "endTime": "1738170717"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "CtRUqkkP6Vhbfwb8em6VDTd2yTzsTFCiRVRKewc2f6NL",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 532.3237156170195,
+                "lpPrice": 187.792946301066,
+                "apr": 0,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "So11111111111111111111111111111111111111112",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                            "symbol": "WSOL",
+                            "name": "Wrapped SOL",
+                            "decimals": 9,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "4017",
+                        "openTime": "1740367144",
+                        "endTime": "1740971944"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "Few1oP46Bd5Dcn483YeXogu1NdYxXvUHRuAy3uCZ3r23",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 13.203198299900714,
+                "lpPrice": 187.792946301066,
+                "apr": 0,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "So11111111111111111111111111111111111111112",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                            "symbol": "WSOL",
+                            "name": "Wrapped SOL",
+                            "decimals": 9,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "82",
+                        "openTime": "1720062900",
+                        "endTime": "1720667700"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "FnsQyUnSS7Fqfy4YBCBLPZb2jSTpBahUw4rSeXuTyLjB",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 0,
+                "lpPrice": 187.792946301066,
+                "apr": 0,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "69kdRLyP5DTRkpHraaSZAQbWmAwzF9guKjZfzMXzcbAs",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/69kdRLyP5DTRkpHraaSZAQbWmAwzF9guKjZfzMXzcbAs.png",
+                            "symbol": "USA",
+                            "name": "American Coin",
+                            "decimals": 6,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "16",
+                        "openTime": "1740777211",
+                        "endTime": "1741382011"
+                    },
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm.png",
+                            "symbol": "$WIF",
+                            "name": "dogwifhat",
+                            "decimals": 6,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "3",
+                        "openTime": "1740777232",
+                        "endTime": "1741382032"
+                    }
+                ]
+            },
+            {
+                "programId": "9KEPoZmtHUrBbhWN1v1KWLMkkvwY6WLtAVUCPRtRjP4z",
+                "id": "GUzaohfNuFbBqQTnPgPSNciv3aUvriXYjQduRE3ZkqFw",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 6041275.33833887,
+                "lpPrice": 187.792946301066,
+                "apr": 0,
+                "tags": [
+                    "Farm"
+                ],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R.png",
+                            "symbol": "RAY",
+                            "name": "Raydium",
+                            "decimals": 6,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "0"
+                    },
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt.png",
+                            "symbol": "SRM",
+                            "name": "Serum",
+                            "decimals": 6,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "0"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "H3PaHMxtCirt85cneJrCZsu9Uh9NAs5ymdjkLCV16Hy2",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 11.240389242056168,
+                "lpPrice": 187.792946301066,
+                "apr": 0,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "EGoDxUvX9ksAXtRhMzmFPXTB1xS22ZoRwusig3dY4qjJ",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/EGoDxUvX9ksAXtRhMzmFPXTB1xS22ZoRwusig3dY4qjJ.png",
+                            "symbol": "EGOD",
+                            "name": "egoD",
+                            "decimals": 9,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "128600823",
+                        "openTime": "1733329776",
+                        "endTime": "1741105776"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "HJgVUVSZMsUCNSge95YiUsEVmXeVT4GcVZq7H4Z4Mwqa",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 0,
+                "lpPrice": 187.792946301066,
+                "apr": 0,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "So11111111111111111111111111111111111111112",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                            "symbol": "WSOL",
+                            "name": "Wrapped SOL",
+                            "decimals": 9,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "1",
+                        "openTime": "1738883637",
+                        "endTime": "1739488437"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "HVpnhueQPsGqbziibfaV1A7bwtQ68MGmtaB2gzxoQiyH",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 233.78979996066707,
+                "lpPrice": 187.792946301066,
+                "apr": 0,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "EjmDTt8G3T725eFSV7oWmGD8J848guo3LZ1EB3RfwGSw",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/EjmDTt8G3T725eFSV7oWmGD8J848guo3LZ1EB3RfwGSw.png",
+                            "symbol": "harold",
+                            "name": "harold",
+                            "decimals": 9,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "1929012",
+                        "openTime": "1727391610",
+                        "endTime": "1729983610"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "Huz69pAFqpYA8LY2W2LYhMFP7C7v6BytYztMwuxkc4nm",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 0,
+                "lpPrice": 187.792946301066,
+                "apr": 0,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "So11111111111111111111111111111111111111112",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                            "symbol": "WSOL",
+                            "name": "Wrapped SOL",
+                            "decimals": 9,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "16",
+                        "openTime": "1718173620",
+                        "endTime": "1718778420"
+                    }
+                ]
+            },
+            {
+                "programId": "FarmqiPv5eAj3j1GMdMCMUGXqPUvmquZtMy86QH6rzhG",
+                "id": "guJRryEgBV56fH1qBvKeF2jEoo86zEM2GEJjMXEmyJf",
+                "symbolMints": [
+                    {
+                        "chainId": 101,
+                        "address": "So11111111111111111111111111111111111111112",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+                        "symbol": "WSOL",
+                        "name": "Wrapped SOL",
+                        "decimals": 9,
+                        "tags": [],
+                        "extensions": {}
+                    },
+                    {
+                        "chainId": 101,
+                        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                        "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                        "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+                        "symbol": "USDC",
+                        "name": "USD Coin",
+                        "decimals": 6,
+                        "tags": [
+                            "hasFreeze"
+                        ],
+                        "extensions": {}
+                    }
+                ],
+                "lpMint": {
+                    "chainId": 101,
+                    "address": "8HoQnePLqPj4M7PUDzfw8e3Ymdwgc7NLGnaTUapubyvu",
+                    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                    "logoURI": "",
+                    "symbol": "SOL-USDC",
+                    "name": "Raydium LP Token V4 (SOL-USDC)",
+                    "decimals": 9,
+                    "tags": [],
+                    "extensions": {}
+                },
+                "tvl": 192.966136057463,
+                "lpPrice": 187.792946301066,
+                "apr": 0,
+                "tags": [],
+                "rewardInfos": [
+                    {
+                        "mint": {
+                            "chainId": 101,
+                            "address": "BQgBNEnu3hXq3UWmvzu694ctLhbb36nnyU3SHBpKMaXn",
+                            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                            "logoURI": "https://img-v1.raydium.io/icon/BQgBNEnu3hXq3UWmvzu694ctLhbb36nnyU3SHBpKMaXn.png",
+                            "symbol": "USAL",
+                            "name": "Uncle Sal",
+                            "decimals": 9,
+                            "tags": [],
+                            "extensions": {}
+                        },
+                        "type": "Standard SPL",
+                        "apr": 0,
+                        "perSecond": "1643655489",
+                        "openTime": "1730265825",
+                        "endTime": "1730874225"
+                    }
+                ]
+            }
+        ],
+        "hasNextPage": false
+    }
+}
